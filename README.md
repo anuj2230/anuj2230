@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hey, I'm **Anuj Parashar**!  
+🚀 Full-Stack Web Developer | DSA Enthusiast | Tech Explorer  
 
-<!--
-**anuj2230/anuj2230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I love building web applications and solving real-world problems with code. I'm equally passionate about mastering Data Structures & Algorithms for writing efficient, clean solutions.
 
-Here are some ideas to get you started:
+💡 **Tech Stack:**  
+🔹 **Languages:** JavaScript, C++, Python  
+🔹 **Frontend:** HTML, CSS, React.js  
+🔹 **Backend:** Node.js, Express.js, MongoDB  
+🔹 **Tools:** Git, GitHub, VS Code  
+🔹 **DSA:** Strong problem-solving in C++ (LeetCode, GFG)  
+🔹 **CS Fundamentals:** DBMS, OOPs, OS  
+🔹 **Currently Exploring:** TypeScript, Next.js, Three.js, System Design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Let’s Connect:**  
+🔗 [GitHub](https://github.com/anuj2230)  
+💼 [LinkedIn](https://www.linkedin.com/in/anuj-parashar-01122b24b/)
