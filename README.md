@@ -1,5 +1,5 @@
 👋 Hey, I'm **Anuj Parashar**!  
-🚀 Full-Stack Web Developer | DSA Enthusiast | Tech Explorer  
+🚀 Full-Stack Web Developer | DSA | Tech Explorer  
 
 💻 I love building web applications and solving real-world problems with code. I'm equally passionate about mastering Data Structures & Algorithms for writing efficient, clean solutions.
 
